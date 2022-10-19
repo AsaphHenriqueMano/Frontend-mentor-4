@@ -1,0 +1,121 @@
+body {
+    background-color: hsl(233, 47%, 7%);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 97vh;
+    display: flex;
+    margin-left: 10%;
+    align-items: center;
+  
+}
+
+section {
+    display: flex;
+    background-color: hsl(244, 38%, 16%);
+    width: 539px;
+    height: 446.29px;  
+    border-top-left-radius: 15px ;
+    border-bottom-left-radius: 15px;
+    
+}
+
+section  img{
+    display: inline-block;
+    margin-left: 0px;   
+    border-top-right-radius: 15px ;
+    border-bottom-right-radius: 15px;
+}  
+
+.text {
+    margin-left: 20px;
+    margin-right: 50px;
+    
+}
+
+h1 {
+    color: hsl(0, 0%, 100%);
+    text-align: left;
+    font-size: 35px;
+    margin-left: 40px;
+    font-family: 'Inter', sans-serif;  
+      ; 
+}
+
+.texto{
+    color: hsla(0, 0%, 100%, 0.6);
+    font-size: 15px;
+    text-align:left;
+    margin-left: 40px;
+    margin-top: 30px;
+    font-family: 'Inter', sans-serif;
+    
+    
+}
+
+ul {
+    list-style: none;
+    display: flex;
+    margin-left: px;
+    margin-top: 60px;
+    
+}
+
+ul li {
+    color: hsl(0, 0%, 100%);
+    margin-left: 5px;
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Lexend Deca', sans-serif;
+}
+
+strong{
+    color:hsla(0, 0%, 100%, 0.6);
+    height: 30px;
+    margin-top: 30px;
+}
+
+.tema-diferente {
+    color: hsl(277, 64%, 61%);
+}
+
+.empresa{
+margin-right: px;
+padding-right: 50px ;
+}
+.modelos{
+    margin-right: px;
+    padding-right: 50px ;    
+}
+
+.consultas {
+    margin-right: px;
+    padding-right: 80px
+}
+
+.lista{
+    margin-top: 30px;
+    margin-left: -2px;
+    margin-bottom: 0px;
+    margin-right: 20px;
+    font-size: 23px;
+}
+
+.attribution {
+    color: white;
+    
+}
+
+.pertubado{
+    margin-left: -19px;
+}
+
+.cabuloso{
+    margin-top: 50px;
+}
+
+.image {
+    display: flex;
+    border-top-right-radius: 15px ;
+    border-bottom-right-radius: 15px;
+}
